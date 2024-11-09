@@ -1,4 +1,6 @@
-# Using Icons Responsibly <https://github.com/semantickerneldev/using-icons-responsibly>
+# Using Icons Responsibly 
+
+<https://github.com/semantickerneldev/using-icons-responsibly>
 
 Attempting to help the tech community use tech icons responsibly.
 

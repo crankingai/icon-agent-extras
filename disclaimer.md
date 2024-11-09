@@ -100,14 +100,14 @@ especially concerning legal matters. Here's a disclaimer that you can adapt for 
 
 > !! Note: the response contained "[Website Name]" placeholders which I've filled in with "Using Icons Responsibly" references.
 
-"[Using Icons Responsibly]<https://github.com/semantickerneldev/using-icons-responsibly> is intended to assist technology community contributors 
+"[Using Icons Responsibly](https://github.com/semantickerneldev/using-icons-responsibly) is intended to assist technology community contributors 
 in the responsible use of technology-related logos. The information and tools provided on this website are AI-powered and are for informational purposes only.  
 They are not intended to provide legal advice. 
 
 The content on this website has not been reviewed by attorneys and should not be considered a substitute for legal counsel.  
 Always consult with a qualified attorney regarding any legal questions or concerns. 
 
-[Using Icons Responsibly]<https://github.com/semantickerneldev/using-icons-responsibly> makes no warranties or representations about 
+[Using Icons Responsibly](https://github.com/semantickerneldev/using-icons-responsibly) makes no warranties or representations about 
 the accuracy or completeness of the information provided and disclaims any liability for any actions taken in reliance on the information on this website."
 
 > **Key Considerations:**
